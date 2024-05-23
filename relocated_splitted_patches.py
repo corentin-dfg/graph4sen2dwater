@@ -3,7 +3,7 @@ from glob import glob
 import rasterio
 from tqdm import tqdm
 
-dataset_root_path = "./SEN2DWATER_patched_NDWI_tlen7_relocated/"
+dataset_root_path = "dataset/SEN2DWATER_patched_NDWI_tlen7_relocated_splitted/"
 
 NB_PATCH_PER_LINE = 4
 IMG_SIZE = 64

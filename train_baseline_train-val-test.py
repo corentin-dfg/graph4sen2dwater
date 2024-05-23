@@ -21,7 +21,7 @@ args = parser.parse_args()
 
 SEED = args.seed
 
-dataset_root_path = "./SEN2DWATER_patched_NDWI_tlen7_relocated_splitted/"
+dataset_root_path = "dataset/SEN2DWATER_patched_NDWI_tlen7_relocated_splitted/"
 
 T_LEN = args.tlen
 IMG_WIDTH = 64

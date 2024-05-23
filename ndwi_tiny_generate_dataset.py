@@ -6,7 +6,7 @@ from dataio.datareader import datareader
 from dataio.spectral_indices import *
 from dataio.normalizer import *
 
-DATASET_ROOT_PATH = "../../data/SEN2DWATER_patched"
+DATASET_ROOT_PATH = "dataset/SEN2DWATER_patched"
 
 NORMALIZE = True
 NORMALIZE_MAX_SCALE = 10000
