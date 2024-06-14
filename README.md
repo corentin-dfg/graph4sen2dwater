@@ -44,5 +44,14 @@ The split used for the data is given in folder ```datasets/```. The seeds used f
 
 If you use this work, consider citing our paper:
 
-:page_with_curl: Paper coming soon
-
+```latex
+@article{dufourg2024forecasting,
+  title={Forecasting water resources from satellite image time series using a graph-based learning strategy},
+  author={Dufourg, Corentin and Pelletier, Charlotte and May, St{\'e}phane and Lef{\`e}vre, S{\'e}bastien},
+  journal={The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences},
+  volume={48},
+  pages={81--88},
+  year={2024},
+  publisher={Copernicus GmbH}
+}
+```
